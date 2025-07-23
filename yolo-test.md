@@ -1,3 +1,0 @@
-# YOLO Test
-
-Yolo Test
